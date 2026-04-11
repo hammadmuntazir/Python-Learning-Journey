@@ -1,0 +1,9 @@
+2026-04-10 11:34:37 - ETL Job Started 
+2026-04-10 11:34:37 - Data Extraction Completed 
+ 
+2026-04-10 11:34:37 - Data Transformation Completed 
+ 
+2026-04-10 11:34:37 - Data loading Completed 
+ 
+2026-04-10 11:34:37 - ETL Job Completed 
+ 

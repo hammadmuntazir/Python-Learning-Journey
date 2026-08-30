@@ -12,4 +12,3 @@ def f_to_c(f):
 f=int(input("Enter the temperature in Fahrenheit: "))
 c=f_to_c(f)
 print(round(c,2),"°c")
-

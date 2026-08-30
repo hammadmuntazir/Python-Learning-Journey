@@ -13,3 +13,5 @@ avg()#ab bola hai idr chala do ager yahi kaam 5 baar krna hai just avg() ko 5 ba
 avg()#function call
 avg()
 avg()
+
+

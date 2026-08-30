@@ -13,3 +13,4 @@ def sum_all(*args): #* lazmi hai baki args ki jaga kuch  bi likh skty hain
 print(sum_all(1,2,4))
 #print(sum_all(1,2,3))
 #print(sum_all(1,2,3,4,5,7))#mean jtny bi ho sub ka sum kro
+
